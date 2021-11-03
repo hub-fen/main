@@ -1,129 +1,442 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	<url>
-		<loc>https://hub-fen.github.io/main/index.html</loc>
-	</url>
-	<url>
-		<loc>https://hub-fen.github.io/main/feng-shui-calculator-usin-pentagram.html</loc>
-	</url>
-	<url>
-		<loc>https://hub-fen.github.io/main/feng-shui-calculator-database.html</loc>
-	</url>
-	<url>
-		<loc>https://hub-fen.github.io/main/feng-shui-calculator-settings.html</loc>
-	</url>
-	<url>
-		<loc>https://hub-fen.github.io/main/feng-shui-calculator-main-window.html</loc>
-	</url>
-	<url>
-		<loc>https://hub-fen.github.io/main/feng-shui-calculator-first-config.html</loc>
-	</url>
-	<url>
-		<loc>https://hub-fen.github.io/main/feng-shui-calculator-contents.html</loc>
-	</url>
-	<url>
-		<loc>https://hub-fen.github.io/main/feng-shui-calculator-magic-square-personality.html</loc>
-	</url>
-	<url>
-		<loc>https://hub-fen.github.io/main/feng-shui-calculator-magic-square-date.html</loc>
-	</url>
-	<url>
-		<loc>https://hub-fen.github.io/main/feng-shui-calculator-symbolic-stars.html</loc>
-	</url>
-	<url>
-		<loc>https://hub-fen.github.io/main/feng-shui-calculator-window-next12.html</loc>
-	</url>
-	<url>
-		<loc>https://hub-fen.github.io/main/feng-shui-calculator-window-next12-lucks.html</loc>
-	</url>
-	<url>
-		<loc>https://hub-fen.github.io/main/feng-shui-calculator-calculated-data.html</loc>
-	</url>
-	<url>
-		<loc>https://hub-fen.github.io/main/feng-shui-calculator-forecasts-for-day.html</loc>
-	</url>
-	<url>
-		<loc>https://hub-fen.github.io/main/feng-shui-calculator-forecasts-for-month.html</loc>
-	</url>
-	<url>
-		<loc>https://hub-fen.github.io/main/feng-shui-calculator-forecasts-for-year.html</loc>
-	</url>
-	<url>
-		<loc>https://hub-fen.github.io/main/feng-shui-calculator-personality-characteristics.html</loc>
-	</url>
-	<url>
-		<loc>https://hub-fen.github.io/main/feng-shui-calculator-help.html</loc>
-	</url>
-	<url>
-		<loc>https://hub-fen.github.io/main/feng-shui-compatibility-content.html</loc>
-	</url>
-	<url>
-		<loc>https://hub-fen.github.io/main/feng-shui-compatibility-config.html</loc>
-	</url>
-	<url>
-		<loc>https://hub-fen.github.io/main/feng-shui-compatibility-main-window.html</loc>
-	</url>
-	<url>
-		<loc>https://hub-fen.github.io/main/feng-shui-compatibility-settings.html</loc>
-	</url>
-	<url>
-		<loc>https://hub-fen.github.io/main/feng-shui-compatibility-database.html</loc>
-	</url>
-	<url>
-		<loc>https://hub-fen.github.io/main/feng-shui-compatibility-description-by-elements.html</loc>
-	</url>
-	<url>
-		<loc>https://hub-fen.github.io/main/feng-shui-compatibility-description-by-stars.html</loc>
-	</url>
-	<url>
-		<loc>https://hub-fen.github.io/main/feng-shui-compatibility-cross-analysis.html</loc>
-	</url>
-	<url>
-		<loc>https://hub-fen.github.io/main/feng-shui-compatibility-partners-characteristics.html</loc>
-	</url>
-	<url>
-		<loc>https://hub-fen.github.io/main/feng-shui-compatibility-by-elements.html</loc>
-	</url>
-	<url>
-		<loc>https://hub-fen.github.io/main/feng-shui-compatibility-by-stars.html</loc>
-	</url>
-	<url>
-		<loc>https://hub-fen.github.io/main/feng-shui-compatibility-help.html</loc>
-	</url>
-	<url>
-		<loc>https://hub-fen.github.io/main/feng-shui-forecasts-content.html</loc>
-	</url>
-	<url>
-		<loc>https://hub-fen.github.io/main/feng-shui-forecasts-config.html</loc>
-	</url>
-	<url>
-		<loc>https://hub-fen.github.io/main/feng-shui-forecasts-main-window.html</loc>
-	</url>
-	<url>
-		<loc>https://hub-fen.github.io/main/feng-shui-forecasts-settings.html</loc>
-	</url>
-	<url>
-		<loc>https://hub-fen.github.io/main/feng-shui-forecasts-database.html</loc>
-	</url>
-	<url>
-		<loc>https://hub-fen.github.io/main/feng-shui-forecasts-for-day.html</loc>
-	</url>
-	<url>
-		<loc>https://hub-fen.github.io/main/feng-shui-forecasts-for-month.html</loc>
-	</url>
-	<url>
-		<loc>https://hub-fen.github.io/main/feng-shui-forecasts-for-year.html</loc>
-	</url>
-	<url>
-		<loc>https://hub-fen.github.io/main/feng-shui-forecasts-for-date.html</loc>
-	</url>
-	<url>
-		<loc>https://hub-fen.github.io/main/feng-shui-forecasts-good-days-calendar.html</loc>
-	</url>
-	<url>
-		<loc>https://hub-fen.github.io/main/feng-shui-forecasts-personality-characteristics.html</loc>
-	</url>
-	<url>
-		<loc>https://hub-fen.github.io/main/feng-shui-forecasts-help.html</loc>
-	</url>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://hub-fen.github.io/main/</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/index.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/ru/</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/feng-shui-calculator-contents.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/feng-shui-forecasts-content.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/feng-shui-compatibility-content.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/ru/index.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/ru/feng-shui-calculator-contents.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/ru/feng-shui-forecasts-content.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/ru/feng-shui-compatibility-content.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/feng-shui-calculator-first-config.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/feng-shui-calculator-main-window.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/feng-shui-calculator-settings.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/feng-shui-calculator-database.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/feng-shui-calculator-usin-pentagram.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/feng-shui-calculator-magic-square-personality.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/feng-shui-calculator-magic-square-date.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/feng-shui-calculator-symbolic-stars.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/feng-shui-calculator-window-next12.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/feng-shui-calculator-window-next12-lucks.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/feng-shui-calculator-calculated-data.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/feng-shui-calculator-forecasts-for-day.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/feng-shui-calculator-forecasts-for-month.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/feng-shui-calculator-forecasts-for-year.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/feng-shui-calculator-personality-characteristics.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/feng-shui-calculator-help.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/feng-shui-forecasts-config.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/feng-shui-forecasts-main-window.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/feng-shui-forecasts-settings.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/feng-shui-forecasts-database.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/feng-shui-forecasts-for-day.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/feng-shui-forecasts-for-month.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/feng-shui-forecasts-for-year.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/feng-shui-forecasts-good-days-calendar.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/feng-shui-forecasts-personality-characteristics.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/feng-shui-forecasts-help.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/feng-shui-compatibility-config.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/feng-shui-compatibility-main-window.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/feng-shui-compatibility-settings.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/feng-shui-compatibility-database.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/feng-shui-compatibility-description-by-elements.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/feng-shui-compatibility-description-by-stars.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/feng-shui-compatibility-cross-analysis.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/feng-shui-compatibility-partners-characteristics.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/feng-shui-compatibility-by-elements.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/feng-shui-compatibility-by-stars.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/feng-shui-compatibility-help.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/ru/feng-shui-calculator-first-config.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/ru/feng-shui-calculator-main-window.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/ru/feng-shui-calculator-settings.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/ru/feng-shui-calculator-database.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/ru/feng-shui-calculator-usin-pentagram.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/ru/feng-shui-calculator-magic-square-personality.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/ru/feng-shui-calculator-magic-square-date.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/ru/feng-shui-calculator-symbolic-stars.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/ru/feng-shui-calculator-window-next12.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/ru/feng-shui-calculator-window-next12-lucks.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/ru/feng-shui-calculator-calculated-data.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/ru/feng-shui-calculator-forecasts-for-day.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/ru/feng-shui-calculator-forecasts-for-month.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/ru/feng-shui-calculator-forecasts-for-year.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/ru/feng-shui-calculator-personality-characteristics.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/ru/feng-shui-calculator-help.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/ru/feng-shui-forecasts-config.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/ru/feng-shui-forecasts-main-window.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/ru/feng-shui-forecasts-settings.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/ru/feng-shui-forecasts-database.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/ru/feng-shui-forecasts-for-day.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/ru/feng-shui-forecasts-for-month.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/ru/feng-shui-forecasts-for-year.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/ru/feng-shui-forecasts-for-date.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/ru/feng-shui-forecasts-good-days-calendar.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/ru/feng-shui-forecasts-personality-characteristics.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/ru/feng-shui-forecasts-help.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/ru/feng-shui-compatibility-config.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/ru/feng-shui-compatibility-main-window.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/ru/feng-shui-compatibility-settings.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/ru/feng-shui-compatibility-database.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/ru/feng-shui-compatibility-description-by-elements.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/ru/feng-shui-compatibility-description-by-stars.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/ru/feng-shui-compatibility-cross-analysis.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/ru/feng-shui-compatibility-partners-characteristics.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/ru/feng-shui-compatibility-by-elements.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/ru/feng-shui-compatibility-by-stars.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/ru/feng-shui-compatibility-help.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://hub-fen.github.io/main/feng-shui-forecasts-for-date.html</loc>
+  <lastmod>2021-11-03T20:24:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
 </urlset>
