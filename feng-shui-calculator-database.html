@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html  >
+<head>
+  <!-- Site made with Mobirise Website Builder v5.4.1, https://mobirise.com -->
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Mobirise v5.4.1, mobirise.com">
+  <meta name="twitter:card" content="summary_large_image"/>
+  <meta name="twitter:image:src" content="assets/images/feng-shui-calculator-database-meta.png">
+  <meta property="og:image" content="assets/images/feng-shui-calculator-database-meta.png">
+  <meta name="twitter:title" content="Working with the database">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+  <link rel="shortcut icon" href="assets/images/feng-shui-calculator-calculated-data-meta-128x88.png" type="image/x-icon">
+  <meta name="description" content="Working with the database in the application (program) Feng Shui Calculator">
+  
+  
+  <title>Working with the database</title>
+  <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
+  <link rel="stylesheet" href="assets/dropdown/css/style.css">
+  <link rel="stylesheet" href="assets/socicon/css/styles.css">
+  <link rel="stylesheet" href="assets/theme/css/style.css">
+  <link rel="preload" href="https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap"></noscript>
+  <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+  
+  
+  
+  
+</head>
+<body>
+
+<!-- Analytics -->
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(86020048, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/86020048" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-F5ZZZ0EQ2N"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-F5ZZZ0EQ2N');
+</script>
+<!-- /Analytics -->
+
+
+  
+  <section data-bs-version="5.1" class="menu cid-sMNcTXPaCP" once="menu" id="menu1-2g">
+    
+    <nav class="navbar navbar-dropdown navbar-fixed-top navbar-expand-lg">
+        <div class="container">
+            <div class="navbar-brand">
+                <span class="navbar-logo">
+                    
+                        <a href="index.html"><img src="assets/images/177x121.png" alt="" style="height: 3.8rem;"></a>
+                    
+                </span>
+                <span class="navbar-caption-wrap"><a class="navbar-caption text-black text-primary display-7" href="index.html">PeterCom - Стиль жизни</a></span>
+            </div>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbarSupportedContent" data-bs-target="#navbarSupportedContent" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                <div class="hamburger">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true"><li class="nav-item"><a class="nav-link link text-primary display-4" href="https://play.google.com/store/apps/details?id=org.qtproject.myprog.fengshuicalc&hl=en_US" target="_blank">Feng Shui calculator</a></li>
+                    <li class="nav-item"><a class="nav-link link text-primary display-4" href="https://play.google.com/store/apps/details?id=org.qtproject.fengluck.notification&hl=en_US" target="_blank">
+                            Feng Shui Forecasts</a></li><li class="nav-item"><a class="nav-link link text-primary display-4" href="https://play.google.com/store/apps/details?id=org.qtproject.myprog.fengcomp&hl=en_US" target="_blank">
+                            Feng Shui People Compatibility</a></li><li class="nav-item"><a class="nav-link link text-primary display-4" href="https://hub-fen.github.io/main">&nbsp; &nbsp; &nbsp; En</a></li><li class="nav-item"><a class="nav-link link text-primary display-4" href="https://hub-fen.github.io/main/ru">Ru</a></li></ul>
+                
+                
+            </div>
+        </div>
+    </nav>
+
+</section>
+
+<section data-bs-version="5.1" class="header17 cid-sMNcTYyJ8U" id="header17-2h">
+
+    
+
+    
+
+    <div class="align-center container">
+        <div class="row justify-content-md-center">
+            <div class="col-md-10">
+                <h1 class="mbr-section-title mb-3 mbr-fonts-style display-5"><strong><a href="feng-shui-calculator-contents.html" class="text-primary">Feng Shui calculator</a></strong></h1>
+                
+                
+                
+            </div>
+        </div>
+    </div>
+    
+</section>
+
+<section data-bs-version="5.1" class="header17 cid-sMNcTZiQ8G" id="header17-2i">
+
+    
+
+    
+
+    <div class="align-center container">
+        <div class="row justify-content-md-center">
+            <div class="col-md-10">
+                <h1 class="mbr-section-title mb-3 mbr-fonts-style display-5"><strong>Working with the database</strong></h1>
+                
+                
+                
+            </div>
+        </div>
+    </div>
+    
+</section>
+
+<section data-bs-version="5.1" class="team2 cid-sMNcTZRMRK" xmlns="http://www.w3.org/1999/html" id="team2-2j">
+    
+    
+    <div class="container">
+        <div class="card">
+            <div class="card-wrapper">
+                <div class="row align-items-center">
+                    <div class="col-12 col-md-3">
+                        <div class="image-wrapper">
+                            <img src="assets/images/fencalc5-1-320x485.png" alt="">
+                        </div>
+                    </div>
+                    <div class="col-12 col-md">
+                        <div class="card-box">
+                            
+                            
+                            <p class="mbr-text mbr-fonts-style display-7">&nbsp; &nbsp; The database is designed to store information about people, the analysis of which must be done periodically. To work with the database, the <strong>Data base</strong>&nbsp;command is intended, which is located in the left menu "<strong>≡</strong>", when executed, the dialog box shown in the figure will be displayed.
+<br>&nbsp; &nbsp; The <strong>first line</strong> is a title containing the name of the window and two buttons to close the dialog. <strong>To select a person</strong> for whom the calculation will be made, you need to select him in the list and press the "<strong>v</strong>" button. The "<strong>x</strong>" button simply closes the dialog without any changes to the application.
+<br>&nbsp; &nbsp; The <strong>second line</strong> controls the display of people in the list. To do this, it contains a drop-down list with the names of the groups of people available in the database. When you select the required group from this list, the lower list will contain records related only to the specified group. To view all the people available in the database, select the line with the word <strong>All</strong>&nbsp;from the drop-down list.
+<br>&nbsp; &nbsp; If you plan to store information about many people in the database, then it is better to use their grouping. To do this, you need to click on the green "<strong>&gt;</strong>" button located in the second line, and create several groups to distribute people.
+<br>&nbsp; &nbsp; The rest of the dialogue is occupied by a list of people. At the bottom right, there is a blue "<strong>+</strong>" button, with which new people are added to the database. The rest of the blue buttons "<strong>v</strong>" and "<strong>-</strong>" appear if you click on the line of interest in the lower list and wait a little.
+<br>&nbsp; &nbsp; The "<strong>-</strong>" button is used to delete the selected line from the database, and the "<strong>v</strong>" button is used to change information about a person.<br></p>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-wrapper">
+                <div class="row align-items-center">
+                    <div class="col-12 col-md-3">
+                        <div class="image-wrapper">
+                            <img src="assets/images/fencalc5-2-318x397.png" alt="">
+                        </div>
+                    </div>
+                    <div class="col-12 col-md">
+                        <div class="card-box">
+                            
+                            
+                            <p class="mbr-text mbr-fonts-style display-7">&nbsp; &nbsp; If you click on the green button "<strong>&gt;</strong>" located in the second line of the <strong>Data base</strong>&nbsp;dialog, a dialog for working with groups will appear, the window of which is similar to the window of the previous dialog.
+<br>&nbsp; &nbsp; The caption contains only one "<strong>x</strong>" button that closes the dialog, and below is a list of the groups of people in the database.
+<br>&nbsp; &nbsp; At the bottom right is the blue "<strong>+</strong>" button, which adds new groups to the database. The rest of the blue buttons "<strong>v</strong>" and "<strong>-</strong>" appear if you click on the line of interest in the list and wait a little.
+<br>&nbsp; &nbsp; The "<strong>-</strong>" button is used to delete the selected line from the database, and the "<strong>v</strong>" button is used to change the name of the selected group.<br></p>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-wrapper">
+                <div class="row align-items-center">
+                    <div class="col-12 col-md-3">
+                        <div class="image-wrapper">
+                            <img src="assets/images/fencalc5-3-318x368.png" alt="">
+                        </div>
+                    </div>
+                    <div class="col-12 col-md">
+                        <div class="card-box">
+                            
+                            
+                            <p class="mbr-text mbr-fonts-style display-7">&nbsp; &nbsp; If you click on the blue "<strong>+</strong>" or "<strong>v</strong>" button in the <strong>Data base</strong>&nbsp;dialog, the application will provide an opportunity to add a new person to the database, or change information about him, displaying the <strong>Person data</strong>&nbsp;dialog, which is shown in the figure on the left. When adding a new person, the dialog will be empty.
+<br>&nbsp; &nbsp; Assigning elements in the dialog:
+<br>&nbsp; &nbsp; <strong>Name</strong>&nbsp;field is intended for entering a person's name, which must be unique in the entire database;
+<br>&nbsp; &nbsp; <strong>Groups</strong>&nbsp;field is intended to display the groups in which the person is included. If desired, a person can belong to several groups. To include a person in the required groups, click on the "<strong>&gt;</strong>" button and a slightly modified <strong>Groups</strong>&nbsp;dialog will appear, shown in the figure below;
+<br>&nbsp; &nbsp; checkbox <strong>Time of birth</strong>&nbsp;is intended to be included in the calculation of the hour pillar and the pillar of Life in the date of birth of a person, while the place of birth must also be specified. If the place of birth is not specified, the Pillar of Hour and the Pillar of Life will not be calculated. The time of birth is set by clicking on the button on the right in the same line (see the dialog below);
+<br>&nbsp; &nbsp; button <strong>Date of birth</strong>&nbsp;is used to set the date of birth of a person (see the dialog below);
+<br>&nbsp; &nbsp; checkbox <strong>Duration of gestation</strong>&nbsp;enables the calculation of the Conceive pillar. When this pillar is included, it is necessary to indicate the mother's gestational age in months (usually 9 months);
+<br>&nbsp; &nbsp; <strong>Gender</strong>&nbsp;switch is designed to set the gender of a person;
+<br>&nbsp; &nbsp; buttons <strong>Birth place</strong>&nbsp;and <strong>Place of calculation</strong>&nbsp;are intended for entering the relevant data about a person (see <strong>Place of Birth</strong>&nbsp;dialog below).<br></p>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section data-bs-version="5.1" class="team2 cid-sMNcU1dORh" xmlns="http://www.w3.org/1999/html" id="team2-2l">
+    
+    
+    <div class="container">
+        <div class="card">
+            <div class="card-wrapper">
+                <div class="row align-items-center">
+                    <div class="col-12 col-md-3">
+                        <div class="image-wrapper">
+                            <img src="assets/images/fencalc5-4-319x399.png" alt="">
+                        </div>
+                    </div>
+                    <div class="col-12 col-md">
+                        <div class="card-box">
+                            
+                            
+                            <p class="mbr-text mbr-fonts-style display-7">&nbsp; &nbsp; If you press the "<strong>&gt;</strong>" button in the <strong>Person data</strong>&nbsp;dialog, a slightly modified <strong>Groups</strong>&nbsp;dialog will be displayed, which is designed to include a person in the necessary groups (checkboxes at the beginning of the name of each group). When changing information about groups, you will need to click on the "<strong>v</strong>" button located in the title bar of the dialog (first line).
+<br>&nbsp; &nbsp; The buttons "<strong>+</strong>", "<strong>-</strong>", "<strong>v</strong>" located on the right in the list of groups perform the same functions as described above.
+<br>&nbsp; &nbsp; To include a person in the required groups, turn on the checkboxes at the beginning of the group name and press the "<strong>v</strong>" button.<br></p>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-wrapper">
+                <div class="row align-items-center">
+                    <div class="col-12 col-md-3">
+                        <div class="image-wrapper">
+                            <img src="assets/images/fencalc5-5-219x229.png" alt="">
+                        </div>
+                    </div>
+                    <div class="col-12 col-md">
+                        <div class="card-box">
+                            
+                            
+                            <p class="mbr-text mbr-fonts-style display-7">&nbsp; &nbsp; This dialog is used to enter the time of birth. The time can be entered directly into the top field, or you can scroll the hours and minutes wheels until the desired time is obtained.&nbsp;<br></p>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-wrapper">
+                <div class="row align-items-center">
+                    <div class="col-12 col-md-3">
+                        <div class="image-wrapper">
+                            <img src="assets/images/fencalc5-6-217x228.png" alt="">
+                        </div>
+                    </div>
+                    <div class="col-12 col-md">
+                        <div class="card-box">
+                            
+                            
+                            <p class="mbr-text mbr-fonts-style display-7">&nbsp; &nbsp; This dialog is used to enter the date of birth. The date can be entered directly into the top field, or you can scroll the day, month, and year wheels until the desired date is obtained. </p>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section data-bs-version="5.1" class="team2 cid-sMRbx3jBka" xmlns="http://www.w3.org/1999/html" id="team2-2t">
+    
+    
+    <div class="container">
+        <div class="card">
+            <div class="card-wrapper">
+                <div class="row align-items-center">
+                    <div class="col-12 col-md-3">
+                        <div class="image-wrapper">
+                            <img src="assets/images/fencalc5-7-319x293.png" alt="">
+                        </div>
+                    </div>
+                    <div class="col-12 col-md">
+                        <div class="card-box">
+                            
+                            
+                            <p class="mbr-text mbr-fonts-style display-7">&nbsp; &nbsp; Dialog for entering information about the place of birth and place of calculation. The dialog name changes depending on what is being entered. The further description of working with this dialog will be in relation to the place of birth. Entering the place of calculation is similar.
+<br>&nbsp; &nbsp; You need to enter information in this dialog in the order of the fields:
+<br>&nbsp; &nbsp; drop-down list <strong>Country</strong>&nbsp;is intended for entering the country in which the person was born. To do this, you can enter the beginning of the name and click on the "√" button on the keyboard of the device and the application will select the nearest name from the database. If the country is not the one you need, then you need to click on the "▼" button from the drop-down list to select the required country;
+<br>&nbsp; &nbsp; drop-down list <strong>Region</strong>&nbsp;drop-down list is intended for entering the region in which the person was born. Actions in this list are similar to the previous one;
+<br>&nbsp; &nbsp; drop-down list <strong>City</strong>&nbsp;is intended for entering the settlement in which the person was born. Actions in this list are similar to the previous one.
+<br>&nbsp; &nbsp; After entering the settlement, the fields below will be filled in automatically.
+<br>&nbsp; &nbsp; If necessary (there is no required settlement in the database), the geographical coordinates of the place can be changed. The time zone will not change.
+<br>&nbsp; &nbsp; At the moment, the geographic database contains information about 136 600 settlements and tables of time changes since 1900.<br></p>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        
+    </div>
+</section>
+
+<section data-bs-version="5.1" class="content12 cid-sMNmeHujvG" id="content12-2s">
+    
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-12 col-lg-10">
+                <div class="mbr-section-btn align-center"><a class="btn btn-primary display-4" href="feng-shui-calculator-settings.html">Previous</a>
+                    <a class="btn btn-primary display-4" href="feng-shui-calculator-usin-pentagram.html">Next</a></div>
+            </div>
+        </div>
+    </div>
+</section><section style="background-color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif; color:#aaa; font-size:12px; padding: 0; align-items: center; display: flex;"><a href="https://mobirise.site/b" style="flex: 1 1; height: 3rem; padding-left: 1rem;"></a><p style="flex: 0 0 auto; margin:0; padding-right:1rem;">Start a site with <a href="https://mobirise.site/z" style="color:#aaa;">Mobirise</a></p></section><script src="assets/bootstrap/js/bootstrap.bundle.min.js"></script>  <script src="assets/smoothscroll/smooth-scroll.js"></script>  <script src="assets/ytplayer/index.js"></script>  <script src="assets/dropdown/js/navbar-dropdown.js"></script>  <script src="assets/playervimeo/vimeo_player.js"></script>  <script src="assets/theme/js/script.js"></script>  
+  
+  
+</body>
+</html>
